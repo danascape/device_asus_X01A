@@ -22,58 +22,54 @@ vendor/lib/rfsa/adsp/libfastcvadsp_skel.so|1ff4a48009e88435d93fd2b9b0c5ea59cedbb
 vendor/lib/rfsa/adsp/libFastRPC_AUE_Forward_skel.so|f4d8675a46c5e52add8f8e90e35b29cd33ac582b
 vendor/lib/rfsa/adsp/libFastRPC_UTF_Forward_Qtc2_skel.so|b9f68e320d24e9c51871a2056e1f47239bd1cb40
 
-# Audio - from Daisy QKQ1.191002.002 V11.0.5.0.QDLMIXM
-vendor/bin/audioflacapp|a8ae278497715aa53f6fb86d5f5af225da0fc5b0
-vendor/lib/libacdb-fts.so|9fb9fe8f1e22e38e41f1517b8f206a50bbb24419
-vendor/lib/libacdbloader.so|f33941720463b3c8215fc644b7d638c6d8ab74c7
-vendor/lib/libacdbrtac.so|f997dfef5413873af88bd8636a501401e9ea9631
-vendor/lib/libadiertac.so|6cfa3c70f01617a944ed2d8512189400ccdec21e
-vendor/lib/libadm.so|b373d5cb6e4c6e081f1d206f6d9538339f330fda
-vendor/lib/libaudcal.so|8c4d9a610c5cce20dee9721feb4864ea2470caf2
-vendor/lib/libaudioalsa.so|1455df26b622c518c04d7f54746683ed96aaa74f
-vendor/lib/libaudioconfigstore.so|5b4d7d4f6840f65c1c630578fb3611d9ce47e268
-vendor/lib/libaudioparsers.so|4b980c4392b6e800fb23213a0daaa83b35c04051
--vendor/lib/libaudio_log_utils.so|7fb2bb0abd10ca763ae5d079a8070e9d3d493bf9
-vendor/lib/libdrc.so|55fc13d205ce3199de2cf1f9c1dab479909c15be
-vendor/lib/libqtigef.so|fbedb509c61ff1a7d6e9c4a099af346ca781430a
-vendor/lib/libsurround_3mic_proc.so|d8c1d2cb7d598eee79ccfe5b7ec83a185c8fef6c
-vendor/lib/libtinycompress_vendor.so|4991b78d9ed12b828ceeaf61e5cde6328eb944b9
-vendor/lib/soundfx/libaudiopreprocessing.so|948f18c576254144f48e9051be28e7d23f8562cc
-vendor/lib/soundfx/libqcbassboost.so|bc8ae80ff1ade557ff494631494c2f8261028acb
-vendor/lib/soundfx/libqcreverb.so|1b3cef3c4c9145662fddb03c5e1e7dd3a4f25e1e
-vendor/lib/soundfx/libqcvirt.so|41bf71787ffae3f511d9cb3e32b9e721a0a2e385
-vendor/lib64/libacdb-fts.so|662467af62f9607abfd5acb532dfbf69240bcc70
-vendor/lib64/libacdbloader.so|7c49e7d95090e20f6198f03959323359e4b2ed19
-vendor/lib64/libacdbrtac.so|54d114f280eb99f4aa73890c5e9cfbb5b55eb813
-vendor/lib64/libadiertac.so|5b511a0312721e9e6ff27fae9a3f035cf66ac6f7
-vendor/lib64/libaudcal.so|a2788d71d00be193e9704edefc1b363cbc847942
-vendor/lib64/libaudioalsa.so|0a8f0746cc8fd381d001f52c7eb4460951802ac4
-vendor/lib64/libaudioconfigstore.so|a862e94f4fc75ce3c3274f219be8c128fe58a822
-vendor/lib64/libaudioparsers.so|67f6836de4391c33cc030faa5c885ab250324291
--vendor/lib64/libaudio_log_utils.so|3670ed70e68b209f67852cad81b74d2dda2de3cd
-vendor/lib64/libqtigef.so|70df5848c061154e4c33b147e06d4979e2391b5e
-vendor/lib64/libtinycompress.so|8d670f7c3079e96b5a36945e95082104876dd64a
-vendor/lib64/libtinycompress_vendor.so|74909f72ee8ebb01c2f4ef717e902055272a5917
-vendor/lib64/soundfx/libaudiopreprocessing.so|28e2f7f8ab01a6cc8bc60a278e93704755121f49
-vendor/lib64/soundfx/libqcbassboost.so|0d2afd6f2c5b9aa2397f3e1cb3287bf906cf8fb6
-vendor/lib64/soundfx/libqcvirt.so|bb046694512d412d6a04bd95ccb2b573454d9717
+# Audio - from 17.2018.2004.31-20200507
+vendor/bin/audioflacapp|e388abb5ceeabcc0471180ccceb05926945f50fc
+vendor/lib/libacdb-fts.so|86f54091e5ad1f77d1ae53053f0b3bbf08d4110a
+vendor/lib/libacdbloader.so|4ccce0f4f6d00219f763c34043e829ea4fc0b93f
+vendor/lib/libacdbrtac.so|6ac060cb04596c85affe432c54fbd86341b543e6
+vendor/lib/libadiertac.so|9b14dbf98d5add7c56c763cc64aa8355c31031cb
+vendor/lib/libadm.so|976d7afc3601f7f5b412d37bb6d2d42539fd2f8e
+vendor/lib/libaudcal.so|e38821d887ef21bbd3ffb0df56572d195826335b
+vendor/lib/libaudioalsa.so|25def7597e74ea37e3637ea9b58f4a30ce0ba090
+vendor/lib/libaudioconfigstore.so|e25f28811d703158e13d88a77cf46e1cc25a822d
+vendor/lib/libaudioparsers.so|55fa9ef6f1cbbda57c9bf0d8c408a0d407b52031
+vendor/lib/libaudio_log_utils.so|87b9b069d50f6f90064308150d02dfa50910836a
+vendor/lib/libdrc.so|e5bb262ef16b331e7a6c0a3c4d812c00f16e1c76
+vendor/lib/libqtigef.so|bc1712389bd1e7ccc3c754f9f32a8d98c3f7698d
+vendor/lib/libsurround_3mic_proc.so|0f6fc4183279e0cec9cc5d3e922559c77239e613
+vendor/lib/libtinycompress_vendor.so|d8f8888aeb049ac9ca2d4429e2386825fdb2432b
+vendor/lib/soundfx/libasphere.so|a58dccfd6d959c8f8c0e00a233ca39d72b5f13ad
+vendor/lib/soundfx/libaudiopreprocessing.so|3a70bc04ef60f837fd152d8bc85600b5d0eb925d
+vendor/lib/soundfx/libqcbassboost.so|3bd1bbb22238f6bd8f782d74632d8150578ae184
+vendor/lib/soundfx/libqcreverb.so|b1e49693d4061aa128fe9244bdb3c5e58a55d73f
+vendor/lib/soundfx/libqcvirt.so|5802ef2fb6cbb17518240a03ac6defac139a78ad
+vendor/lib64/libacdb-fts.so|9862c0ca119c3b6223b646646b55ee1b3e0efef9
+vendor/lib64/libacdbloader.so|c0974e0f1e54fd4765da3b968231ca7079bd6863
+vendor/lib64/libacdbrtac.so|27920b1d688e4616d542c764bf7231ddb4512cc2
+vendor/lib64/libadiertac.so|1dcee7fd83e5fe23cfc726aa8f0ae8c40678b104
+vendor/lib64/libaudcal.so|049c1b5f6972811f601b306ccd615d790b7d2de9
+vendor/lib64/libaudioalsa.so|0a8ba586d91720df0648f2a9d3d06b384a574955
+vendor/lib64/libaudioconfigstore.so|6c87feb3db8916b7f3d382097eb40740b13d3bf6
+vendor/lib64/libaudioparsers.so|ecf13589a2307d1455820adbafdb896a83ccb7dc
+vendor/lib64/libaudio_log_utils.so|0a12cfbb9177a2831e7e938d37ee1c69250f37cf
+vendor/lib64/libqtigef.so|adfacbd30ab88f67c1672bb36172790f5be46f04
+vendor/lib64/libtinycompress.so|7e6935c9be2030ac23c234435327695660ec6c51
+vendor/lib64/libtinycompress_vendor.so|5d97f3eac0c9c985d3da61a16883836420a08180
+vendor/lib64/soundfx/libasphere.so|eb86db6f0f91e9d7c76dc8e4fc63124922e6aed3
+vendor/lib64/soundfx/libaudiopreprocessing.so|056ffb49034b4445c31970b239ce0cc984b2eb23
+vendor/lib64/soundfx/libqcbassboost.so|2c8fa391bd6942db174a3e59d92909b403acdc26
+vendor/lib64/soundfx/libqcreverb.so|e4f94bdb72ccfee9c505beb8042ca004d1faad5f
+vendor/lib64/soundfx/libqcvirt.so|55ff24260ade41d17365a196e8c3ee7950cbd8ee
 
-# Audio Hardware - from Daisy QKQ1.191002.002 V11.0.5.0.QDLMIXM
-vendor/lib/hw/audio.primary.default.so|ff14977e58b75175644acdc1e94215eeb9808f0b
-vendor/lib/hw/audio.primary.msm8953.so|681f54d3bc6d5bbd3ec4d802b14920f291460606
-vendor/lib64/hw/audio.primary.default.so|21c56b5ff57681e1068de79520e1e3e542392e89
-vendor/lib64/hw/audio.primary.msm8953.so|93a15cfc441bc13df66a5557add4d2ba803b2b96
-
-# Audio dirac - from xiaomi
-vendor/etc/diracmobile.config|d781cd6798a7481a8f7128d144abfb2b8794212d
-vendor/lib/libDiracAPI_SHARED.so|42b49679d38eca93fead05ea06ddbdc8108fd4b1
-vendor/lib/soundfx/libdirac.so|f63826a905b520fa524e4c1b147be7cf65240953
+# Audio Hardware - from 17.2018.2004.31-20200507
+vendor/lib/hw/audio.primary.default.so|d5b87ede0340ced44999b5f434b4d26a55a04b3f
+vendor/lib/hw/audio.primary.msm8953.so|b9e4764ae48b9817020a387eb35e3d804449f29c
+vendor/lib64/hw/audio.primary.default.so|e84dcaa7a0b0a63d3b7fc41a876d3b52e8bb0c30
+vendor/lib64/hw/audio.primary.msm8953.so|3adc70512e93e80c0ae25eb93ad227cddb39ead3
 
 # Audiosphere - from Daisy QKQ1.191002.002 V11.0.5.0.QDLMIXM
 etc/permissions/audiosphere.xml|3c6d8f14bd99e52a424282fd5d0a5b9b06485dea
 framework/audiosphere.jar|c1679f5aca56f0cb24745b3f7d219acd04833bed
-vendor/lib/soundfx/libasphere.so|4d0ccf1c282bb70619d20bf7d79021dc3815a579
-vendor/lib64/soundfx/libasphere.so|f552a053f935299b3fd9be03a596eb4c40dee50e
 
 # ANT+ (vendor)
 vendor/lib64/com.qualcomm.qti.ant@1.0.so
@@ -364,23 +360,23 @@ product/lib64/vendor.qti.latency@2.0.so|0144eec541989f450695ec8cbdd595df4009fe1a
 vendor/lib64/vendor.qti.hardware.data.latency@1.0.so|53794a8d4dfeb0fbd233a4b128749a06d515c3f7
 vendor/lib64/vendor.qti.latency@2.0.so|0144eec541989f450695ec8cbdd595df4009fe1a
 
-# Listen - from Daisy QKQ1.191002.002 V11.0.5.0.QDLMIXM
-vendor/lib/hw/sound_trigger.primary.msm8953.so|991e0be9c5743d5d3394eb2f4b82740c3c0616f7
-vendor/lib/libadpcmdec.so|be5fdf08a08b635816381e61b6bbf2874c62f613
-vendor/lib/libgcs-calwrapper.so|96178681d6704bb457f006f9fa8b6bcc71513c8a
-vendor/lib/libgcs-ipc.so|05f718e7bf68b31ca1199f8812046234c00d9a3e
-vendor/lib/libgcs-osal.so|2daf1f34a595d218af88c79285743bafa2145e20
-vendor/lib/libgcs.so|8aac6d5adc83d1cf4b7346304b350b2a18920c44
-vendor/lib/liblistenjni.so|1a7273acbd33b6e5d3c7dd0957da2fdc903acc85
-vendor/lib/liblistensoundmodel2.so|d645cf28571a6cbe867b15dd1665822c713ec35e
-vendor/lib/libsmwrapper.so|efed6475b26cafc15fed591a9aaa68b38cf6a37b
-vendor/lib64/hw/sound_trigger.primary.msm8953.so|4ff47ab34dfd457a57a5bede70769fbbc63c240e
-vendor/lib64/libgcs-calwrapper.so|4d93fcb19b26033d4c76a8db04963e3be930b254
-vendor/lib64/libgcs-ipc.so|5854e7814fdcedcb2cb859858df0bce835afc3b3
-vendor/lib64/libgcs-osal.so|d2a09b2298c9cd1daa1d6573f244e5286fd984eb
-vendor/lib64/libgcs.so|e15de14c593069ea32dbdc304a3d604be8cc0896
-vendor/lib64/liblistenjni.so|4814b09f1d0c8d17516d1c6df7687b992311a884
-vendor/lib64/liblistensoundmodel2.so|13b37cbd54943834676872f534e6a51505bbcea7
+# Listen - from 17.2018.2004.31-20200507
+vendor/lib/hw/sound_trigger.primary.msm8953.so|aab75f53185f75f7d14a46d3435235c7d98056ba
+vendor/lib/libadpcmdec.so|40b9fc30ac7973a0da1b4b7f67a696e72045e7a7
+vendor/lib/libgcs-calwrapper.so|ff9f6cef7a8c1776b4cbfd622af8719cbe0ba6f5
+vendor/lib/libgcs-ipc.so|59c35d68b5afe9870e1eaa68d9a18cf2c906499a
+vendor/lib/libgcs-osal.so|08af3aa2c105eb9f93c091d4a54a4e75e56ab441
+vendor/lib/libgcs.so|6e654307a7a889addee8302677f241db2f53986d
+vendor/lib/liblistenjni.so|4387587727254c26a44d5f339566257b0ae3f804
+vendor/lib/liblistensoundmodel2.so|d8184a33aa4d5d2211588332752485c26147cc49
+vendor/lib/libsmwrapper.so|f0f9a262eb5241e25112e66bd6c8dd1c8e2a3add
+vendor/lib64/hw/sound_trigger.primary.msm8953.so|d5484349cdc6f32f0ebd394ff304310a54c07c97
+vendor/lib64/libgcs-calwrapper.so|5a2a204901126f700e283bc23e35680a282ab434
+vendor/lib64/libgcs-ipc.so|2c4f36997a8b66a11f8a422c3e399df321a37f0b
+vendor/lib64/libgcs-osal.so|679e1fd843fd90706c4e17ebfd1c58218a7f4329
+vendor/lib64/libgcs.so|aad6a30175d12667950ce5cbdc0c736d1a24e9d3
+vendor/lib64/liblistenjni.so|3715a586822c5754c1768d51d589a4bd3c64acde
+vendor/lib64/liblistensoundmodel2.so|cdae54a0c127ba7f73c2b334e2335c4bda75c7cd
 
 # Media - from Daisy QKQ1.191002.002 V11.0.5.0.QDLMIXM
 vendor/lib/libI420colorconvert.so|0dfd4d0e49f4250e98e781483048a296a679e05e
