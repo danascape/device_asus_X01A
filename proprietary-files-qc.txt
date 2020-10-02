@@ -106,6 +106,17 @@ vendor/lib/vendor.qti.hardware.bluetooth_audio@2.0.so|235d8dc80e335a9c323f2ce395
 vendor/lib/vendor.qti.hardware.bluetooth_sar@1.0.so|0976fd28359b218cd041aca3fb03acde045aa760
 vendor/lib/vendor.qti.hardware.btconfigstore@1.0.so|b849985a2fc292120a26ba7649addd3bb6e0de1e
 
+# CDSP - from 17.2018.2004.31-20200507
+vendor/bin/cdsprpcd|efa7da16048709b6f122b450303b08809be1a776
+vendor/lib/libcdsprpc.so|ef4c2f1c3f2d6713590ea685daaecf34244279a6
+vendor/lib/libcdsp_default_listener.so|95793a13d639c2bc4498227f5dc545f5a0a1c724
+vendor/lib/libfastrpc_utf_stub.so|6da89a658b697bb5d7a8a2152ac73d57f445aae5
+vendor/lib/libsysmon_cdsp_skel.so|86f855e2e69076dc07e1fa215b8ad7fca018e193
+vendor/lib64/libcdsprpc.so|004ff00ef414a583a79d560dfee1c6211d854811
+vendor/lib64/libcdsp_default_listener.so|1943ef37640b8c674cb364e69a2c5188c3805b46
+vendor/lib64/libfastrpc_utf_stub.so|a0bc83430234753feb0e51a9821cc319e972b905
+vendor/lib64/libsysmon_cdsp_skel.so|ed925aaf6d7c569e487fbd04259518677a7588db
+
 # CNE - from Daisy QKQ1.191002.002 V11.0.5.0.QDLMIXM
 etc/cne/Nexus/ATT/ATT_profiles.xml|33e568627fd3f94dc45bca1c01ad10e6d8fb5b52
 etc/cne/Nexus/ROW/ROW_profiles.xml|238e785e9674b27c4b2365958d127533d7293132
@@ -187,17 +198,6 @@ vendor/lib64/vendor.qti.hardware.data.connection@1.1.so|5eba375977dc8981e8a4308e
 vendor/lib64/vendor.qti.hardware.data.dynamicdds@1.0.so|b412051aa59f06d3c5a965c7286ef93ddf420569
 vendor/lib64/vendor.qti.hardware.data.iwlan@1.0.so|f338ec0fe9c5f49ecd94e1835b6a16b020afb66c
 vendor/lib64/vendor.qti.hardware.data.qmi@1.0.so|35ad6e08d00e8b1695964fa7d6ddbc521eda8628
-
-# CDSP - from Daisy QKQ1.191002.002 V11.0.5.0.QDLMIXM
-vendor/bin/cdsprpcd|a1b4c35ffdef184cc1334f3d1cf4fa56546d3621
-vendor/lib/libcdsprpc.so|ad00bd9a9f8e43403fcaf3101cce2b452a636032
-vendor/lib/libcdsp_default_listener.so|5c035d22a100501d090c15786ac720eecec15624
-vendor/lib/libfastrpc_utf_stub.so|c9b36aa0e4791536f1ae4e4d90820c77fc06a5bd
-vendor/lib/libsysmon_cdsp_skel.so|c81311a5c24b131c7b00c137705254e57f429368
-vendor/lib64/libcdsprpc.so|cdd9343c8b732a082cb008fedc269d4e4d7e5929
-vendor/lib64/libcdsp_default_listener.so|94792d75a16534ae766aba9c0d4a4a62782eac6d
-vendor/lib64/libfastrpc_utf_stub.so|d19ff5b0ef7506a5d28f5825547dcf235c2f8f96
-vendor/lib64/libsysmon_cdsp_skel.so|f3cb20891b795036134a659cd530287fe8c84369
 
 # Charger
 vendor/bin/hvdcp_opti
