@@ -504,6 +504,13 @@ vendor/lib64/vendor.qti.hardware.alarm@1.0.so|78f8db9acff8b3461d6d37c747b1bdb59e
 # Power-off charging daemon
 -sbin/charger:bin/chargeonlymode|da39a3ee5e6b4b0d3255bfef95601890afd80709
 
+# QC RIL - from Daisy QKQ1.191002.002 V11.0.5.0.QDLMIXM
+vendor/bin/hw/qcrild|c0db5589a45874c31c0bb7e8a7151511505c1e04
+vendor/etc/init/qcrild.rc|f9c32f5e7a8e7f4a0df1dcce174de169b8d7c060
+vendor/lib64/libqcrilFramework.so|3d8f25d13533f6fa45a36b23feb250291b663370
+vendor/lib64/libril-qc-hal-qmi.so|9f58de2abe6a3d67a341692c5870929a66f0b8b2
+vendor/lib64/qcrild_librilutils.so|c23470619690a34f7442fb6b26345de5dc4de880
+
 # QMI - from Daisy QKQ1.191002.002 V11.0.5.0.QDLMIXM
 etc/permissions/qti_libpermissions.xml|593bcb72cce68ceb0a70f50bcae7d460114e7c62
 etc/permissions/qti_permissions.xml|e6ff4572352b1a4f91b6b9d7cbb1cad9924410a0
